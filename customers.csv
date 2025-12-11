@@ -1,0 +1,101 @@
+customer_id,customer_name,email,phone number,city,country
+1,Sandra Payne,anthony63@example.org,(400)534-7042x132,Port Brendan,Panama
+2,Rachel Hart,sromero@example.com,+1-614-300-4308,Burnettport,Cyprus
+3,Lacey Griffin,lamberttracy@example.net,(271)485-2639,South Johnny,Singapore
+4,Anthony Williamson,amybeasley@example.org,(263)962-3351,Wesleychester,Turkmenistan
+5,Michelle Mendoza,wwhitaker@example.com,262-949-3208x3749,Washingtonfurt,Seychelles
+6,Michael Mcgee,hamiltonmichael@example.com,001-542-631-1827x75241,Rachelport,Anguilla
+7,Aaron Thompson,paulbryant@example.com,529.854.3374,Youngfort,Japan
+8,James Cain,juan81@example.com,(673)545-1543,Fraziershire,Aruba
+9,Emily Glover,kevans@example.com,+1-758-299-7124x83930,Michaelshire,United States Virgin Islands
+10,Kenneth Bates,ddavis@example.com,816-746-5863x3026,Henryhaven,Korea
+11,Katie Pugh,theresa13@example.org,001-629-806-6524x38411,Lewisstad,Mozambique
+12,Robert Hebert,arellanolauren@example.org,749-845-9579,South Ricky,Djibouti
+13,John Austin,anthonyvilla@example.org,(897)395-0661,Youngberg,Korea
+14,Daniel Anderson,jennifer01@example.net,001-464-922-9342x42568,Maureenport,Ghana
+15,Joshua Morris,derrick44@example.com,455-546-8694x7669,West Shannon,Morocco
+16,Deborah Riley,ashleyedwards@example.org,(516)307-8318x3320,Changberg,Australia
+17,Nicole Sandoval,courtney50@example.org,272-328-9960x02644,Lake Anthonyburgh,Cyprus
+18,Christine Mason,sharon98@example.com,001-827-570-1978,South Roy,Uzbekistan
+19,Alexandra Garza,sarahgonzalez@example.com,(614)372-2574,Sanchezburgh,Iceland
+20,Joshua Stephens,daniellemorrow@example.org,+1-278-955-8555,Jessicaport,Suriname
+21,Gabriela Levy,robinsonjessica@example.com,(609)210-0691,West Deniseborough,Bermuda
+22,Tonya Reese,hleblanc@example.net,564.524.1455,Smithtown,Algeria
+23,Richard Stewart,gregory17@example.com,939.477.2645x313,North Christina,Kiribati
+24,Melissa Clark,lindamiller@example.net,969-521-1250,Zhangport,Kuwait
+25,Elizabeth Jones,sawyerdesiree@example.net,001-814-977-2953,New Christopher,Belgium
+26,Brittany Park,patricktorres@example.com,+1-992-319-5632x7627,Port Steven,Northern Mariana Islands
+27,Michael Turner,garymorris@example.com,594.553.3546x786,Richardschester,Kuwait
+28,Mr. Gary Jones,rileycharlene@example.net,001-241-261-0073,New Emilyborough,Madagascar
+29,Jamie Wolf,nross@example.com,354.719.0045x41890,Tylerstad,Dominican Republic
+30,Michael Sullivan,jonathan64@example.net,+1-877-870-9461,Port Melissa,Guinea
+31,Andrew Jordan,mfoster@example.net,+1-782-206-6645x22216,North Dawn,Wallis and Futuna
+32,Dr. Leah Perry,fcrane@example.com,3982822982,Powersmouth,Heard Island and McDonald Islands
+33,Timothy Rivas,hgibbs@example.com,+1-531-552-1959x95544,Jessebury,Guyana
+34,Christina Brown,candacemccarthy@example.net,+1-601-291-1402,Bakerfort,Peru
+35,Cynthia Jimenez,nicholaslawrence@example.com,+1-680-253-0399,Lewisburgh,Barbados
+36,Susan Martinez,cthornton@example.com,001-246-406-3086x0301,Carpenterburgh,Haiti
+37,Pamela Hansen,blankenshipwendy@example.net,371.547.1769x8640,Millsfurt,Sweden
+38,Adam Thompson,dayleslie@example.org,233.283.4914,West Carolynberg,Montenegro
+39,Jennifer Berry,stevenmiller@example.org,9862441140,West Lisa,Saint Kitts and Nevis
+40,Crystal Oliver,bflynn@example.net,(979)827-3405,Lake Angelaburgh,Jamaica
+41,Michael Brown,diana34@example.com,(340)861-8539x3535,Ryanfurt,Lesotho
+42,George Allen,nward@example.com,(559)301-3618x4403,Russellborough,Sri Lanka
+43,Joshua Hall,danny21@example.com,720-463-5961x093,Evansfurt,Falkland Islands (Malvinas)
+44,Martin Lee,pgonzalez@example.com,965.997.3013x3172,East Deborah,Equatorial Guinea
+45,Cheryl Caldwell,smithshari@example.org,001-258-692-8145x09127,Howardstad,Comoros
+46,Logan Jackson,cgray@example.org,+1-983-363-2302x10410,Lewisland,Bangladesh
+47,Paul Davis,patrick20@example.net,563.932.7867x67100,Samanthamouth,North Macedonia
+48,Joshua Bradley,sward@example.com,+1-942-678-2319x6966,Brownhaven,Somalia
+49,Lauren Hernandez,angie58@example.org,291-991-8253x78465,Guerraberg,Luxembourg
+50,Jacob Reilly,maryoconnor@example.net,(920)826-6584x222,Wilsonside,Kuwait
+51,Wendy Chambers,timlee@example.net,570.208.3446x727,Williamsview,Costa Rica
+52,David Mcdonald,kmarshall@example.net,(540)842-2274x33344,East Desireeside,Oman
+53,David Miller,aguilarchris@example.com,8008856508,West Rachel,Jamaica
+54,Douglas Grant,lisa71@example.com,+1-955-927-9243x723,South Aprilfurt,Nigeria
+55,Lauren Jones,joan24@example.net,001-484-327-1357x89128,Ramirezmouth,Vietnam
+56,Douglas Williams,juliannichols@example.org,833.701.6737,Alexandermouth,Martinique
+57,David Gardner,anthony45@example.net,001-316-750-4098x060,East Christophershire,Niger
+58,Justin Bowen,marquezadam@example.net,7403876202,Callahanfort,Moldova
+59,Jeffrey Morales,janegarcia@example.com,001-555-766-8087x647,Elizabethburgh,Tunisia
+60,Gary Davenport,julia49@example.org,640.421.0164,Williamston,Peru
+61,Allison Douglas,hdavis@example.com,394.292.2244,Susanchester,Oman
+62,Sarah Bradshaw,adamstimothy@example.org,001-804-934-6560x77486,Davidland,Botswana
+63,Christopher Jackson,dylan60@example.org,(419)392-6797,Tinashire,Bouvet Island (Bouvetoya)
+64,Jessica Walters,lisa75@example.org,438.212.8660x3089,Davidborough,Christmas Island
+65,Tammy Taylor,wjones@example.net,001-435-805-8436x82168,North Joel,British Virgin Islands
+66,Melissa Howe,clarkelisa@example.com,966-921-3135x1219,South Kathleenmouth,Cote d'Ivoire
+67,Cheryl Garza DDS,rosalespaul@example.org,501.733.2896x418,Bestport,Afghanistan
+68,Tina Valenzuela,sarahcox@example.org,213-670-1589x2952,Kemptown,Slovenia
+69,Sandra Rodriguez,brandonroberts@example.org,(886)254-4340,Vaughnton,Ecuador
+70,Mary Patterson,ronaldwashington@example.com,+1-486-933-3548x83701,Higginston,Singapore
+71,Christine Bradley,larry44@example.com,392-496-3268x397,Dustinmouth,Haiti
+72,Richard Hart,mary84@example.com,6138877730,Lake Juliabury,Thailand
+73,Robert Horn,baileymark@example.org,001-855-687-7320x043,Ellenfort,Seychelles
+74,William Snow,bwebb@example.com,(599)416-1516,Johnstonshire,Sweden
+75,Joseph Montgomery,allenmartha@example.net,001-800-516-5163x770,Simsfurt,Niger
+76,Tyler Schwartz,dianablake@example.com,639-729-9436,Carrollport,Saint Pierre and Miquelon
+77,Jeremiah Jordan,vcole@example.org,(423)589-6888,Meredithchester,Taiwan
+78,Charles White DVM,icurtis@example.com,221-669-0357x195,East Christopher,Aruba
+79,Daniel Sanchez,nelsonbrandon@example.net,001-828-225-0093x10168,Deannastad,Russian Federation
+80,Mrs. Margaret Harrison DDS,stephanieshah@example.com,625.723.8456x63930,Johntown,Malawi
+81,Laura Fitzgerald,eric68@example.com,3848342387,Gregoryshire,Burkina Faso
+82,Whitney Leon,justin12@example.net,(236)204-9951,East Gregory,Egypt
+83,Patrick Cantrell,lawrencejohnson@example.com,777-721-2255,North Kevin,Bolivia
+84,Colleen Miller,williamspaul@example.org,301-540-5379x9402,Pearsonton,Vanuatu
+85,Dana Anderson,hughesscott@example.com,(882)542-3631x77086,Johnsonton,Western Sahara
+86,Melissa Stewart,alexissmith@example.com,(308)737-1480,South Thomas,Myanmar
+87,Matthew Williams,wilsondebbie@example.com,2162781933,Josephfurt,Cuba
+88,Brandon Long,linda74@example.com,+1-367-941-1443x154,West Jorgechester,Honduras
+89,Michelle Pham,tamara44@example.org,938-328-9922x669,Lake Larry,Sweden
+90,Billy Bautista,logan00@example.org,207-448-2958,Antoniostad,Mexico
+91,Christopher Garza,cjones@example.com,+1-837-601-0501x80865,Brittneyborough,Estonia
+92,Jared Nguyen,nicholas60@example.com,968.658.8432x014,Lake Amandahaven,Kuwait
+93,William Black,adriennegarrett@example.com,224-355-3845x089,East Jaredburgh,Palestinian Territory
+94,Michael Rasmussen,williamsmeredith@example.org,593-929-5794x2867,Lake Emilyhaven,Turks and Caicos Islands
+95,Seth Padilla,vincentturner@example.com,602.677.4551x48975,Bakerfort,Colombia
+96,Peggy Kelly,cohenscott@example.net,472.385.8934x427,Pollardfurt,Bhutan
+97,Jonathan Dickerson,jenniferjones@example.net,(253)367-5237x021,Matthewsside,Guinea
+98,Dr. Michael Moore PhD,xboyd@example.net,8284170157,North Andreafurt,Brazil
+99,Eric Goodwin MD,anthony53@example.org,001-392-996-1301,Mcintoshland,Bermuda
+100,Allison Spence,whiteeugene@example.org,(903)854-7868x98004,Elizabethborough,Western Sahara
